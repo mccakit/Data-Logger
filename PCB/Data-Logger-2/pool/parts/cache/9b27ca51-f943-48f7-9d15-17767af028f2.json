@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "T491B226K020AT"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Tantalum Capacitor"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "7bdfef84-4a29-408f-b5cc-280c7a04a479",
+    "pad_map": {
+        "1b07c0b2-f266-46f5-8b99-938ddea9aa3d": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        },
+        "de6941fe-834c-4977-98c7-1ecca608f557": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "9b27ca51-f943-48f7-9d15-17767af028f2",
+    "value": [
+        false,
+        ""
+    ]
+}

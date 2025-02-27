@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "PBSS4350X,115"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Lov Vsat NPN"
+    ],
+    "entity": "15e94b7a-b7c9-4bf2-820c-11074dc0718e",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "f958e79a-a166-40e2-85a9-42506058698e",
+    "package": "e88e7abb-aac2-4058-bc1a-841f50e9b760",
+    "pad_map": {
+        "636cec98-c1af-4f83-b664-3be92027edfc": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "cf05b51d-d8b8-472b-8096-40c8b1358c16": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "f6b918f9-cd63-44c7-888a-85ba90d876dc": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "fd1bcc14-1fda-4183-87f7-643d00c9da02": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "df468d31-f209-437e-afc2-a4f7d00e6581",
+    "value": [
+        false,
+        ""
+    ]
+}

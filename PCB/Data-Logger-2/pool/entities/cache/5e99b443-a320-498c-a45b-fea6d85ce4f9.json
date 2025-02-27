@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "14924fa3-6cf7-41c8-b821-e33ae451a905": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "eb63fe8a-61f7-4584-a321-e9483bfdb82c"
+        }
+    },
+    "manufacturer": "",
+    "name": "TXS0104EQPWRQ1",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "5e99b443-a320-498c-a45b-fea6d85ce4f9"
+}

@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "SMD INDUCTOR 12x12mm"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SMD NS INDUCTOR 12x12mm"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "f2382f48-8c15-485e-91aa-a8258391feef",
+    "package": "8acd8010-b2c3-4d3f-b2e4-c1618a93c345",
+    "pad_map": {
+        "17f1539d-7bf8-4ec2-aeb4-849cd5d32bb1": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "34b285b3-45ac-45c3-8191-5e67fa86fea8": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "4f2b88a9-088a-4b22-8071-00871d18fc4d",
+    "value": [
+        false,
+        ""
+    ]
+}

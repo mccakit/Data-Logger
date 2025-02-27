@@ -1,0 +1,143 @@
+{
+    "arcs": {},
+    "block": "8125e57c-0f6d-412e-810a-052667c6013e",
+    "junctions": {
+        "512e0494-510c-4cc4-a9bb-9762b69e94af": {
+            "position": [
+                -7500000,
+                5000000
+            ]
+        },
+        "66423359-25fb-4421-b21a-e9a3f37a175a": {
+            "position": [
+                13750000,
+                5000000
+            ]
+        },
+        "95829e5e-4356-41f7-93f6-fb097871a5be": {
+            "position": [
+                13750000,
+                -7500000
+            ]
+        },
+        "c5ac1cac-fad7-462b-8eeb-d651d1f1fbe6": {
+            "position": [
+                -7500000,
+                -7500000
+            ]
+        },
+        "cffb29ae-454c-4d31-984f-f3f26a987e07": {
+            "position": [
+                -7500000,
+                5000000
+            ]
+        }
+    },
+    "lines": {
+        "26386871-a225-4827-b90d-e56eebb1bd2b": {
+            "from": "512e0494-510c-4cc4-a9bb-9762b69e94af",
+            "layer": 0,
+            "to": "66423359-25fb-4421-b21a-e9a3f37a175a",
+            "width": 0
+        },
+        "72b659e1-90b7-4cf9-9139-0981d7d28d39": {
+            "from": "95829e5e-4356-41f7-93f6-fb097871a5be",
+            "layer": 0,
+            "to": "c5ac1cac-fad7-462b-8eeb-d651d1f1fbe6",
+            "width": 0
+        },
+        "8f9f865d-29fd-4609-ab59-4f8c7b974dc4": {
+            "from": "c5ac1cac-fad7-462b-8eeb-d651d1f1fbe6",
+            "layer": 0,
+            "to": "512e0494-510c-4cc4-a9bb-9762b69e94af",
+            "width": 0
+        },
+        "fd3d964a-e5f0-4038-b05c-d0d62c4bc4ca": {
+            "from": "66423359-25fb-4421-b21a-e9a3f37a175a",
+            "layer": 0,
+            "to": "95829e5e-4356-41f7-93f6-fb097871a5be",
+            "width": 0
+        }
+    },
+    "pictures": {},
+    "ports": {
+        "7ff18a57-fd69-580d-ad75-bdedaa291d1c": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "b9f35415-0318-4dc2-aa92-d503c4569987",
+            "orientation": "right",
+            "position": [
+                13750000,
+                2500000
+            ]
+        },
+        "a202f39f-2272-52b7-a8e1-6e8e36d36fc3": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "a68b3b2d-1467-4e9c-a83d-6896d67f451a",
+            "orientation": "left",
+            "position": [
+                -10000000,
+                -1250000
+            ]
+        },
+        "c6a983bb-f7f5-59cc-b6a8-20f698c5166a": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "550e6376-77a4-4e82-892a-f3a354a9ccfb",
+            "orientation": "left",
+            "position": [
+                -10000000,
+                2500000
+            ]
+        },
+        "f68932ab-78b4-56dd-b211-f41177ecaabf": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "7ba519a3-d0b2-4a4f-a2c4-71bf7f9bf5f1",
+            "orientation": "left",
+            "position": [
+                -10000000,
+                -5000000
+            ]
+        }
+    },
+    "texts": {
+        "710fb035-824f-447f-b5a2-9042ae2d039b": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -7500000,
+                    8750000
+                ]
+            },
+            "size": 1500000,
+            "text": "TPS54331 Step Down",
+            "width": 0
+        },
+        "b68015f0-ba9c-4ab8-b6a7-8acc99c9f107": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -7500000,
+                    6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "VOUT=(R(ADJ)/3.24K)+1)*0.8V",
+            "width": 0
+        }
+    },
+    "type": "block_symbol",
+    "uuid": "fe709a02-e915-46db-ab20-e415f7c6b41d"
+}

@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "6ccaf277-2954-4d05-9cd3-031b8dfc6e9e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a0bbdc73-b8af-4c84-9f92-7d670a20695f"
+        }
+    },
+    "manufacturer": "",
+    "name": "SN74HC595N",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "a4ababa0-f9fb-4311-9e34-4c9d1459e8f6"
+}

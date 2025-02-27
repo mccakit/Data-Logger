@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "2N7002KW"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "N Channel Mosfet 115mA 60V"
+    ],
+    "entity": "c135130c-0663-4575-9083-3b328ac00c90",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "071e4973-a4ab-46e1-a646-b832360ba078",
+    "package": "0bc128fb-4b86-4a5f-bc6b-e16206c8863b",
+    "pad_map": {
+        "9ddd60e5-f566-4ede-8ddb-28a84a3c116d": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "f8014b56-a4a5-4b52-b34e-696db4033dbd": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "fbd46dbb-3409-4a58-a02d-9956d45aacba": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mosfet",
+        "n-channel",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "e03431c0-6f15-49ef-a2f2-04f6c6745339",
+    "value": [
+        false,
+        ""
+    ]
+}

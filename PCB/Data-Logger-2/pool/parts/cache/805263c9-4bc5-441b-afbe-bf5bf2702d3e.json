@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "1N5819-SMD"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "1N5819-SMD"
+    ],
+    "entity": "cba5158c-706d-4f10-b48a-2de7e5a82a4c",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "6d43134d-0e80-4a1c-abe0-cdf3a892937a",
+    "package": "41539903-1ef8-490f-96de-adcd5aae1b72",
+    "pad_map": {
+        "672b095c-0419-4fc6-b6c8-9ccafdb29c5c": {
+            "gate": "3a9cf76e-893b-4785-a6af-6f15da2086dc",
+            "pin": "b57ca2a1-1bbf-43f0-b0a0-bf953094a8de"
+        },
+        "88be0a06-982e-49e9-9f0f-4fc5f83a1fab": {
+            "gate": "3a9cf76e-893b-4785-a6af-6f15da2086dc",
+            "pin": "16ee5a5c-8eea-4447-ad48-04d973776e3a"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "805263c9-4bc5-441b-afbe-bf5bf2702d3e",
+    "value": [
+        false,
+        ""
+    ]
+}

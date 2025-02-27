@@ -1,0 +1,67 @@
+{
+    "MPN": [
+        false,
+        "L-KLS1-TF-001"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SD Card"
+    ],
+    "entity": "600f95f9-b1ff-4f74-bade-b3ae70c5b303",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0793128c-c32f-4357-a601-f6352870a640",
+    "pad_map": {
+        "017a39ee-16a9-40ea-95e7-74a304a65c65": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "d67bc920-d88b-453a-86a0-d6f1c775e524"
+        },
+        "244273d7-89cd-4e1b-845d-f5c8d6420ae5": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "05ddc663-1d4f-472d-a4ab-e1aff2501d2f"
+        },
+        "671a541a-ab94-4c5d-8cc7-efaab4876b2d": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "ca9e04f6-e037-4be1-a9ae-de949c799dfc"
+        },
+        "7af81739-0032-44c8-88bd-c3ab1f7970ae": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "df1024b9-2f54-4325-a38b-385d1d99df69"
+        },
+        "827a9281-f4f0-472d-b6ca-487a6ff89312": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "e23f3579-91fc-47b6-be81-fabc628b9d25"
+        },
+        "b55057c4-4352-4180-99bf-dff624ad9090": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "42043bb1-e1a7-498a-ab5f-7eec5974b294"
+        },
+        "b9ef2697-4d85-4757-bad7-8541bfe5e528": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "aea10a4c-b11c-4b33-bfd6-6f923cbb2fa0"
+        },
+        "ead77b87-7035-4d24-a590-95de4c2c2263": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "77223696-069a-4ae0-b5f7-9312b315996d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "5b3370a0-ad9f-4cda-b3aa-4b0b0d713995",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "TPS54331DR"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Step Down Regulator"
+    ],
+    "entity": "a660751c-047e-473c-b820-373731e58bbc",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "8d1acad2-67bc-417e-a1c0-4e6a9032439e",
+            "pin": "a7f88a1a-604c-43f3-835f-f82ad6816c77"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "8d1acad2-67bc-417e-a1c0-4e6a9032439e",
+            "pin": "7859a3ce-fc3d-4ba4-9b3e-f8d9e58da37e"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "8d1acad2-67bc-417e-a1c0-4e6a9032439e",
+            "pin": "9e3fa538-328e-4598-9d5e-5c5e416ecc65"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "8d1acad2-67bc-417e-a1c0-4e6a9032439e",
+            "pin": "eca2f7fd-5603-47a1-ac91-5b4db855a92c"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "8d1acad2-67bc-417e-a1c0-4e6a9032439e",
+            "pin": "01aa24c1-6b5f-404f-86f1-e1e8e7eb74fe"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "8d1acad2-67bc-417e-a1c0-4e6a9032439e",
+            "pin": "47caeced-d83d-419d-ae9c-2c2df624e15b"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "8d1acad2-67bc-417e-a1c0-4e6a9032439e",
+            "pin": "6347442d-8209-440b-82a9-b2ef9a59202b"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "8d1acad2-67bc-417e-a1c0-4e6a9032439e",
+            "pin": "b5c840a4-c290-4e75-a76c-a4d4ac87dc09"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "1c703107-0227-4971-999d-ff5564c97617",
+    "value": [
+        false,
+        ""
+    ]
+}

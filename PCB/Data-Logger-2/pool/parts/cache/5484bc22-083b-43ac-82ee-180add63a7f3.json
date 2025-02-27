@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "RH100-12.000-10-2020-EXT"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "12Mhz Crystal"
+    ],
+    "entity": "03e9b2b2-36ee-4e93-a665-c9327c97cc89",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "e03fe15f-3b95-404d-b885-b27a6a66e2d9",
+    "pad_map": {
+        "0f9c531b-c691-4ad8-94cc-c71f416dc490": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "d118db9b-0850-4b8a-a5a0-5f50299fd232"
+        },
+        "1eff94c0-d38a-40a5-8f0e-a6b6069e4cbc": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        },
+        "3fbcc630-74fc-4bc6-90ef-338ce4dbde08": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "d118db9b-0850-4b8a-a5a0-5f50299fd232"
+        },
+        "d04aacc2-fbdd-47ff-8b75-4a72fc2e6414": {
+            "gate": "2a1bd72d-6d14-48c7-94d4-91d36e7a56c6",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "crystal"
+    ],
+    "type": "part",
+    "uuid": "5484bc22-083b-43ac-82ee-180add63a7f3",
+    "value": [
+        false,
+        ""
+    ]
+}

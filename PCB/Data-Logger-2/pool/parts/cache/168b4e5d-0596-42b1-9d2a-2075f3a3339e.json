@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "DS1042-03-1-1-KKR-250-10 Tactile Switch"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Tactile Switch"
+    ],
+    "entity": "09952b1f-1221-48ad-896c-4481914e3af2",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "b0ca879c-8aab-4651-8142-39b4f5b5a3b7",
+    "package": "d28aac28-e614-473d-812d-5956b4597b3c",
+    "pad_map": {
+        "4609faf5-8f08-4573-b036-95146f8ab4fa": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "97955848-10f4-4667-b838-46f6bb8fe085"
+        },
+        "5b28f1e4-2fa2-463e-8809-31e6aeb40185": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "831b482b-82af-40ba-8cc0-5e272f25cc2c"
+        },
+        "6d8b1eb4-6f95-452c-90d0-ae3d51409bf7": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "97955848-10f4-4667-b838-46f6bb8fe085"
+        },
+        "9ccc9c21-c09b-4fb2-9a4d-c140b52c9708": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "831b482b-82af-40ba-8cc0-5e272f25cc2c"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "168b4e5d-0596-42b1-9d2a-2075f3a3339e",
+    "value": [
+        false,
+        ""
+    ]
+}

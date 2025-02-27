@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "CK1V107M6L07KVR"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SMD Capacitor"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "23ab1e63-a90f-4a62-bbdb-03ca1501a4eb",
+    "pad_map": {
+        "70bfecfc-f582-4785-b197-bc0dcc4a1ac0": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        },
+        "e76084a7-c72e-4792-9086-b1f30d0b22ba": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "capacitor"
+    ],
+    "type": "part",
+    "uuid": "1a8f5ebb-3fc2-4cb8-9118-0703f9fb037d",
+    "value": [
+        false,
+        ""
+    ]
+}

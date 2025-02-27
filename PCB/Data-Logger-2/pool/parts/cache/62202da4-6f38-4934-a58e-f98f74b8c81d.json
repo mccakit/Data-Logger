@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "TVS Diode"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "TVS Diode"
+    ],
+    "entity": "20261a91-1436-4976-bbc2-15d5e1100205",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "b61d5146-7275-413c-ac25-396982077e8e",
+    "package": "4811c6e4-6ccf-4a5c-83a3-c93885cfb26a",
+    "pad_map": {
+        "3ec771bd-c64c-498f-b1ca-71263f700306": {
+            "gate": "1bdcc7e5-0783-4cb1-946a-deb80ccea3c9",
+            "pin": "16c4e4f3-6acd-421c-a8f9-be5d2d78cd3a"
+        },
+        "6efc1bbd-5b51-4f29-9215-991b69fbfde1": {
+            "gate": "1bdcc7e5-0783-4cb1-946a-deb80ccea3c9",
+            "pin": "7049a113-dd5e-4c88-9fd2-92a57d10f406"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "62202da4-6f38-4934-a58e-f98f74b8c81d",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "MC34063EBD-TR"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "DC-DC Converter"
+    ],
+    "entity": "298511e8-705f-437b-9527-a00b9adf9056",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "59f44348-fc1a-4bd3-8596-9f779541478b",
+            "pin": "1a4105ab-2468-4133-b7c5-0149adb7afd5"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "59f44348-fc1a-4bd3-8596-9f779541478b",
+            "pin": "dd847e89-f708-4d7e-8b4b-fbf1eeda7983"
+        },
+        "3d725e25-0d60-46cb-a21f-82462d3ce156": {
+            "gate": "59f44348-fc1a-4bd3-8596-9f779541478b",
+            "pin": "2b08ef84-258f-482f-b192-7522d1e0237d"
+        },
+        "51d7c05f-acae-46d5-9c26-2ea9d17bf7a8": {
+            "gate": "59f44348-fc1a-4bd3-8596-9f779541478b",
+            "pin": "e4c6b020-082a-4c34-883b-612a8c8327ae"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "59f44348-fc1a-4bd3-8596-9f779541478b",
+            "pin": "bccc2276-5ebc-4568-bdfd-a3a631980f4e"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "59f44348-fc1a-4bd3-8596-9f779541478b",
+            "pin": "512ba847-8b94-4932-9ce3-11133ab54ac6"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "59f44348-fc1a-4bd3-8596-9f779541478b",
+            "pin": "ce8e1105-4f30-45d0-b34b-83f843c822ea"
+        },
+        "b9ad4acf-f78d-438d-8b7b-e83ee0f9cc19": {
+            "gate": "59f44348-fc1a-4bd3-8596-9f779541478b",
+            "pin": "41d5327e-31d9-4735-a714-a0ac629ddf80"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "fdf4be21-0fbc-41d0-88c2-332e3877914b",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "manufacturer": "",
+    "name": "MC34063EBD-TR",
+    "pins": {
+        "1a4105ab-2468-4133-b7c5-0149adb7afd5": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SWE",
+            "swap_group": 0
+        },
+        "2b08ef84-258f-482f-b192-7522d1e0237d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "IPK",
+            "swap_group": 0
+        },
+        "41d5327e-31d9-4735-a714-a0ac629ddf80": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "DRC",
+            "swap_group": 0
+        },
+        "512ba847-8b94-4932-9ce3-11133ab54ac6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CII",
+            "swap_group": 0
+        },
+        "bccc2276-5ebc-4568-bdfd-a3a631980f4e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "TC",
+            "swap_group": 0
+        },
+        "ce8e1105-4f30-45d0-b34b-83f843c822ea": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "dd847e89-f708-4d7e-8b4b-fbf1eeda7983": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "e4c6b020-082a-4c34-883b-612a8c8327ae": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "SWC",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "09aab4be-90c4-4903-b7ed-bf65f158c365"
+}

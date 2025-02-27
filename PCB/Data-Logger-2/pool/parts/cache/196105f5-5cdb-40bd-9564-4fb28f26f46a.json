@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "SRI1207-331M"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SMD Inductor"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "af8ec89c-b827-43ff-9315-075792cbbede",
+    "pad_map": {
+        "e5cab8c4-56e7-469b-866e-3e9faaa9733a": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "ef1c2dbc-b721-421b-badf-b4b002d0240a": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "196105f5-5cdb-40bd-9564-4fb28f26f46a",
+    "value": [
+        false,
+        ""
+    ]
+}

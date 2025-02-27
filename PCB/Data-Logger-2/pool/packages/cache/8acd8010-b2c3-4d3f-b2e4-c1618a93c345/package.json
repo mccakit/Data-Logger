@@ -1,0 +1,276 @@
+{
+    "arcs": {},
+    "default_model": "f2382f48-8c15-485e-91aa-a8258391feef",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "0750d077-7330-49c6-b264-a0a7164a9df1": {
+            "position": [
+                -6273800,
+                6273800
+            ]
+        },
+        "19000fdb-7ec8-4b6e-9dea-2c0e08cf47e4": {
+            "position": [
+                6273800,
+                -3037840
+            ]
+        },
+        "1954c977-5348-42a2-b4b9-d7684e4bffcf": {
+            "position": [
+                6273800,
+                6273800
+            ]
+        },
+        "19672365-60b4-47c9-9995-5d1803484688": {
+            "position": [
+                6146800,
+                -6146800
+            ]
+        },
+        "3073369c-deec-48ea-bc25-33634d3963fb": {
+            "position": [
+                -11122200,
+                0
+            ]
+        },
+        "46651d7e-e636-4111-b65a-e831db1d5e04": {
+            "position": [
+                -11503200,
+                -381000
+            ]
+        },
+        "51f45c6e-d07a-4a97-bbd1-407a4b129a7d": {
+            "position": [
+                -6146800,
+                6146800
+            ]
+        },
+        "5b8d661d-6cd5-4a94-846f-9fff5010ca92": {
+            "position": [
+                -6273800,
+                3037840
+            ]
+        },
+        "5e4cc4bb-63a5-46aa-a84b-2b880f5a3f88": {
+            "position": [
+                -6273800,
+                -6273800
+            ]
+        },
+        "6d68d7ff-80cb-4f88-a1fb-08346bcb58f1": {
+            "position": [
+                -11503200,
+                381000
+            ]
+        },
+        "6e344fdd-516a-4fda-9120-aaa5cd485452": {
+            "position": [
+                6273800,
+                -6273800
+            ]
+        },
+        "8c99aeb2-89b2-488d-bf51-f9050cffc0a3": {
+            "position": [
+                -6146800,
+                -6146800
+            ]
+        },
+        "c6258506-8c14-42ca-8ca4-05fff7f31045": {
+            "position": [
+                6273800,
+                3037840
+            ]
+        },
+        "d3b4672c-f8d7-4c28-a94f-064d7d5016ea": {
+            "position": [
+                -11884200,
+                0
+            ]
+        },
+        "e8d49e29-0a5a-4f49-be71-d111dfceb5e2": {
+            "position": [
+                6146800,
+                6146800
+            ]
+        },
+        "f9142c99-64a4-4050-8331-e0ddedc03eaa": {
+            "position": [
+                -6273800,
+                -3037840
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "0718e274-696c-49a6-81d9-d96412c94d0f": {
+            "from": "1954c977-5348-42a2-b4b9-d7684e4bffcf",
+            "layer": 20,
+            "to": "0750d077-7330-49c6-b264-a0a7164a9df1",
+            "width": 152400
+        },
+        "0a428faf-585c-47b0-b953-b3b78f03ac54": {
+            "from": "3073369c-deec-48ea-bc25-33634d3963fb",
+            "layer": 50,
+            "to": "d3b4672c-f8d7-4c28-a94f-064d7d5016ea",
+            "width": 0
+        },
+        "11d6d96b-44fb-4930-b525-607005e37ce1": {
+            "from": "3073369c-deec-48ea-bc25-33634d3963fb",
+            "layer": 20,
+            "to": "d3b4672c-f8d7-4c28-a94f-064d7d5016ea",
+            "width": 152400
+        },
+        "1350f091-cd9d-4eee-af97-60576aa3a61c": {
+            "from": "6e344fdd-516a-4fda-9120-aaa5cd485452",
+            "layer": 20,
+            "to": "19000fdb-7ec8-4b6e-9dea-2c0e08cf47e4",
+            "width": 152400
+        },
+        "17c3c113-a6a6-418c-a8de-eadf141b924f": {
+            "from": "51f45c6e-d07a-4a97-bbd1-407a4b129a7d",
+            "layer": 50,
+            "to": "8c99aeb2-89b2-488d-bf51-f9050cffc0a3",
+            "width": 0
+        },
+        "383e38c7-76dd-47b0-901f-12f4665d828b": {
+            "from": "8c99aeb2-89b2-488d-bf51-f9050cffc0a3",
+            "layer": 50,
+            "to": "19672365-60b4-47c9-9995-5d1803484688",
+            "width": 0
+        },
+        "62f4ad7e-435c-4a95-977f-b479280a9ca9": {
+            "from": "f9142c99-64a4-4050-8331-e0ddedc03eaa",
+            "layer": 20,
+            "to": "5e4cc4bb-63a5-46aa-a84b-2b880f5a3f88",
+            "width": 152400
+        },
+        "6e547d10-8005-4703-9302-255ce3082631": {
+            "from": "6d68d7ff-80cb-4f88-a1fb-08346bcb58f1",
+            "layer": 20,
+            "to": "46651d7e-e636-4111-b65a-e831db1d5e04",
+            "width": 152400
+        },
+        "7af18fd1-4b5c-4f3f-82d3-cf5bd5e2f001": {
+            "from": "0750d077-7330-49c6-b264-a0a7164a9df1",
+            "layer": 20,
+            "to": "5b8d661d-6cd5-4a94-846f-9fff5010ca92",
+            "width": 152400
+        },
+        "890af64f-92dc-4094-b901-c5ef16aff72d": {
+            "from": "5e4cc4bb-63a5-46aa-a84b-2b880f5a3f88",
+            "layer": 20,
+            "to": "6e344fdd-516a-4fda-9120-aaa5cd485452",
+            "width": 152400
+        },
+        "a13566a3-c38e-434f-8c3d-581ff69fc0ef": {
+            "from": "6d68d7ff-80cb-4f88-a1fb-08346bcb58f1",
+            "layer": 50,
+            "to": "46651d7e-e636-4111-b65a-e831db1d5e04",
+            "width": 0
+        },
+        "a41a68e1-03db-4719-9c0b-055bc117c9ef": {
+            "from": "e8d49e29-0a5a-4f49-be71-d111dfceb5e2",
+            "layer": 50,
+            "to": "51f45c6e-d07a-4a97-bbd1-407a4b129a7d",
+            "width": 0
+        },
+        "b982e941-27cf-4105-ad0a-e024af300152": {
+            "from": "c6258506-8c14-42ca-8ca4-05fff7f31045",
+            "layer": 20,
+            "to": "1954c977-5348-42a2-b4b9-d7684e4bffcf",
+            "width": 152400
+        },
+        "e6ddceca-9ef2-447d-9637-5335169b2acc": {
+            "from": "19672365-60b4-47c9-9995-5d1803484688",
+            "layer": 50,
+            "to": "e8d49e29-0a5a-4f49-be71-d111dfceb5e2",
+            "width": 0
+        }
+    },
+    "manufacturer": "",
+    "models": {
+        "f2382f48-8c15-485e-91aa-a8258391feef": {
+            "filename": "3d_models/cache/6d752bc3-29b3-45df-8cf2-1e3aacefbcc6/mccakit/SMD INDUCTOR 12x12mm/SMD2_CDRH127_SUM.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "SMD INDUCTOR 12x12mm",
+    "pads": {
+        "17f1539d-7bf8-4ec2-aeb4-849cd5d32bb1": {
+            "name": "1",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 5410200,
+                "pad_width": 2895600
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -4950000,
+                    0
+                ]
+            }
+        },
+        "34b285b3-45ac-45c3-8191-5e67fa86fea8": {
+            "name": "2",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 5410200,
+                "pad_width": 2895600
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    4950000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "inductor",
+        "mccakit",
+        "smd"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "8acd8010-b2c3-4d3f-b2e4-c1618a93c345"
+}

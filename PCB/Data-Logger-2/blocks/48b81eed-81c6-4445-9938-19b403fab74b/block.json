@@ -1,0 +1,167 @@
+{
+    "block_instance_mappings": {},
+    "block_instances": {},
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {
+        "436e008e-4d97-446b-8eee-1b40ed1bdb14": {
+            "alt_pins": {},
+            "connections": {
+                "8b4c20d8-37fd-40a5-8239-db8803c0baa0/20f0495c-5e6e-4975-b440-1399ca09d3c3": {
+                    "net": "3972a0b2-1a7f-405a-a6aa-c0cd399ddce9"
+                },
+                "8b4c20d8-37fd-40a5-8239-db8803c0baa0/304699c2-7433-4b03-ad2c-c8df631dd06f": {
+                    "net": "68754609-9b76-4677-9ddf-dd265494e685"
+                },
+                "8b4c20d8-37fd-40a5-8239-db8803c0baa0/559d5e91-2169-486b-9ece-8db9867957dd": {
+                    "net": "cf6b3c6f-0ecd-4401-bc7f-26b176e64535"
+                }
+            },
+            "entity": "17084abb-c2d5-43ab-b162-54261190761e",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "099ec2b4-0dc4-4f37-9694-77e5fd3fc467",
+            "pin_names": {},
+            "refdes": "U?",
+            "tag": "bbb4b906-9709-4d21-adab-0f21e8d4ee0c",
+            "value": ""
+        },
+        "7b881363-fc40-4778-9e80-17827eb52d18": {
+            "alt_pins": {},
+            "connections": {
+                "48af78e5-730e-44eb-977a-cf188e4fcb39/6a44037c-65e2-4876-9359-42890048841d": {
+                    "net": "3972a0b2-1a7f-405a-a6aa-c0cd399ddce9"
+                },
+                "48af78e5-730e-44eb-977a-cf188e4fcb39/dda0ec99-5d70-4fbe-a8db-897542e7554e": {
+                    "net": "cf6b3c6f-0ecd-4401-bc7f-26b176e64535"
+                }
+            },
+            "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "0aaa5955-e860-49fa-9b04-c3fe2d4bc010",
+            "pin_names": {},
+            "refdes": "R?",
+            "tag": "020ddf28-e5e8-4e15-8720-abbe6b77aaa4",
+            "value": ""
+        },
+        "aa4c7093-51eb-4cde-8b86-6e7bb891e51c": {
+            "alt_pins": {},
+            "connections": {
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/29995253-b4b1-4c7c-a049-b6db2713ca7c": {
+                    "net": "2b886202-1c0f-4058-81c8-a51b18c58902"
+                },
+                "9bfcf213-2a7e-444e-8312-ce57209fc9ec/852f1fe6-06dc-4661-8a14-61a9a6ebb26a": {
+                    "net": "3972a0b2-1a7f-405a-a6aa-c0cd399ddce9"
+                }
+            },
+            "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "2f50150e-b407-4eda-899c-4a8339af9433",
+            "pin_names": {},
+            "refdes": "C?",
+            "tag": "7016a448-9a13-4de8-a70b-bc0d5d9a5c41",
+            "value": ""
+        },
+        "e3943e6c-aaa1-48a3-b142-d7c504770b8d": {
+            "alt_pins": {},
+            "connections": {
+                "23766b63-6ffc-4831-baee-ba1635a735b3/1e7cd34f-86db-4b34-9e0b-c276756301ab": {
+                    "net": "cf6b3c6f-0ecd-4401-bc7f-26b176e64535"
+                },
+                "23766b63-6ffc-4831-baee-ba1635a735b3/bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6": {
+                    "net": "2b886202-1c0f-4058-81c8-a51b18c58902"
+                }
+            },
+            "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "9dbae3fe-8a3c-40f3-b332-47b06bdf527a",
+            "pin_names": {},
+            "refdes": "C?",
+            "tag": "f2ec8d3b-33d7-4aa6-8535-7350d3df5b91",
+            "value": ""
+        }
+    },
+    "group_names": {},
+    "name": "Negative Linear",
+    "net_class_default": "f746649c-112e-4b2a-a747-63f8ae71dc1e",
+    "net_classes": {
+        "f746649c-112e-4b2a-a747-63f8ae71dc1e": {
+            "name": "default"
+        }
+    },
+    "nets": {
+        "2b886202-1c0f-4058-81c8-a51b18c58902": {
+            "is_port": false,
+            "is_power": true,
+            "name": "GND",
+            "net_class": "f746649c-112e-4b2a-a747-63f8ae71dc1e",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "3972a0b2-1a7f-405a-a6aa-c0cd399ddce9": {
+            "is_port": true,
+            "is_power": false,
+            "name": "ADJ",
+            "net_class": "f746649c-112e-4b2a-a747-63f8ae71dc1e",
+            "port_direction": "input",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "68754609-9b76-4677-9ddf-dd265494e685": {
+            "is_port": true,
+            "is_power": false,
+            "name": "VIN",
+            "net_class": "f746649c-112e-4b2a-a747-63f8ae71dc1e",
+            "port_direction": "input",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "cf6b3c6f-0ecd-4401-bc7f-26b176e64535": {
+            "is_port": true,
+            "is_power": false,
+            "name": "VOUT",
+            "net_class": "f746649c-112e-4b2a-a747-63f8ae71dc1e",
+            "port_direction": "output",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        },
+        "d368e6dd-f32d-4a1f-9a8c-4317de92768b": {
+            "is_port": false,
+            "is_power": true,
+            "name": "24V",
+            "net_class": "f746649c-112e-4b2a-a747-63f8ae71dc1e",
+            "port_direction": "bidirectional",
+            "power_symbol_name_visible": true,
+            "power_symbol_style": "gnd"
+        }
+    },
+    "project_meta": {
+        "author": "cakit",
+        "date": "2025-02-25",
+        "project_name": "Data-Logger-2",
+        "project_title": "Data Logger 2",
+        "rev": "1"
+    },
+    "tag_names": {
+        "020ddf28-e5e8-4e15-8720-abbe6b77aaa4": "1",
+        "7016a448-9a13-4de8-a70b-bc0d5d9a5c41": "3",
+        "bbb4b906-9709-4d21-adab-0f21e8d4ee0c": "0",
+        "f2ec8d3b-33d7-4aa6-8535-7350d3df5b91": "2"
+    },
+    "uuid": "48b81eed-81c6-4445-9938-19b403fab74b"
+}

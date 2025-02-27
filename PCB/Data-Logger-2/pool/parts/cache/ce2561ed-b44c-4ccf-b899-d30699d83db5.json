@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "PESD5V0S1BL,315"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "5V TVS Diode"
+    ],
+    "entity": "13a6654d-02b1-4775-b445-feb9afb2e62d",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "60eca11d-a3d5-4c51-ae26-cfa67503671f",
+    "pad_map": {
+        "5daa827c-e9aa-4f2c-99d9-8a1de464c212": {
+            "gate": "5f809660-e823-4049-b3cc-d38b92b07385",
+            "pin": "78e7616d-6dbc-4a2f-b896-09134bbb68e2"
+        },
+        "96384dec-310e-48d5-83d5-1db73586a59d": {
+            "gate": "5f809660-e823-4049-b3cc-d38b92b07385",
+            "pin": "24751931-eadc-4315-8b4b-d45b6be14a72"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode"
+    ],
+    "type": "part",
+    "uuid": "ce2561ed-b44c-4ccf-b899-d30699d83db5",
+    "value": [
+        false,
+        ""
+    ]
+}

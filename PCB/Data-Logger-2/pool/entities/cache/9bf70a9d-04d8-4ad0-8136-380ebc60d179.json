@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "929e49d6-7537-41a1-9328-94fd1256d3f1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c1c957eb-f1e9-4034-ad82-f049e5d617cc"
+        }
+    },
+    "manufacturer": "",
+    "name": "CD4051BPWR",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "9bf70a9d-04d8-4ad0-8136-380ebc60d179"
+}

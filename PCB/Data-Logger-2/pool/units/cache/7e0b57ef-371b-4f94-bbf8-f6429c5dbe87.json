@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "TPD1E10B06DPYR",
+    "pins": {
+        "16c4e4f3-6acd-421c-a8f9-be5d2d78cd3a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "~",
+            "swap_group": 0
+        },
+        "7049a113-dd5e-4c88-9fd2-92a57d10f406": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "~",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7e0b57ef-371b-4f94-bbf8-f6429c5dbe87"
+}

@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "8d1acad2-67bc-417e-a1c0-4e6a9032439e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "86966716-7c6c-4aaf-93a4-580eac359edf"
+        }
+    },
+    "manufacturer": "",
+    "name": "TPS54331DR",
+    "prefix": "IC",
+    "tags": [],
+    "type": "entity",
+    "uuid": "a660751c-047e-473c-b820-373731e58bbc"
+}

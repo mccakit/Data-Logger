@@ -1,0 +1,104 @@
+{
+    "manufacturer": "",
+    "name": "CH340G",
+    "pins": {
+        "189780ac-0941-4000-b762-8179e210e9c7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~DCD",
+            "swap_group": 0
+        },
+        "35404fea-414c-40c2-91e2-676e9347b08a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "UD+",
+            "swap_group": 0
+        },
+        "3d04408b-5b3f-4670-a736-f6dbd7dd1e62": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "UD-",
+            "swap_group": 0
+        },
+        "5065f8d5-705d-481f-9c4d-23d76295a324": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RI",
+            "swap_group": 0
+        },
+        "577e7be8-41de-4b9a-99cd-1655ae5778c2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "59f18767-f67d-4220-b51f-10cadb9718b3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~DSR",
+            "swap_group": 0
+        },
+        "63260d4f-2d5b-4096-a9e2-af219f6792c4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "XI",
+            "swap_group": 0
+        },
+        "937a0551-36e8-4b4a-a469-65d37248c4b9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RXD",
+            "swap_group": 0
+        },
+        "9bd346b6-6ab7-4c1c-9d68-0dbe388c0d88": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "~DTR",
+            "swap_group": 0
+        },
+        "b0751d83-de63-465a-bdaa-d8defb2b591a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~CTS",
+            "swap_group": 0
+        },
+        "d88a1ebb-5a24-4b2e-9d7c-d1e445e36978": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "~RTS",
+            "swap_group": 0
+        },
+        "dbd75e96-044f-4e77-9a68-8d4b44751372": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "R232",
+            "swap_group": 0
+        },
+        "de5ce6f3-b2be-45e9-a52b-157517351deb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "XO",
+            "swap_group": 0
+        },
+        "ec14a9c7-3842-40f6-b2d9-3a6746660123": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "V3",
+            "swap_group": 0
+        },
+        "f079c2b5-3d38-4046-9192-bb5a64f2299d": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "fec62f8f-cbe4-4e12-966e-00679506e3a4": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TXD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "bda95bb8-559f-4c71-94ce-f2d5f0886a2a"
+}

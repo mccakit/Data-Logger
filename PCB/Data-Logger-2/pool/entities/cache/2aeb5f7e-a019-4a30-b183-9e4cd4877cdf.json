@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "7423f424-849a-42bc-8b7c-87541bbeadd7": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "27d20ddd-6d66-4cbc-8a62-481ad9f58540"
+        }
+    },
+    "manufacturer": "",
+    "name": "ESP32-WROVER-B",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "2aeb5f7e-a019-4a30-b183-9e4cd4877cdf"
+}

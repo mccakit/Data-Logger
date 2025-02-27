@@ -1,0 +1,323 @@
+{
+    "arcs": {},
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "0edde143-ecc0-4762-9a34-9b8296c94570": {
+            "position": [
+                17800000,
+                -2300000
+            ]
+        },
+        "161ecd11-63e6-4e70-8e88-fe2785e5336a": {
+            "position": [
+                12500000,
+                2500000
+            ]
+        },
+        "21cc7690-2620-49ab-aba2-f541f93b11c2": {
+            "position": [
+                12500000,
+                -1800000
+            ]
+        },
+        "2d936105-0b99-4c7b-9fd1-3e8e17f4c414": {
+            "position": [
+                15500000,
+                2500000
+            ]
+        },
+        "3c69eab9-2a9a-4fc7-9848-feae1010422d": {
+            "position": [
+                17300000,
+                -1800000
+            ]
+        },
+        "40ecb2c6-cf46-4ff7-9663-bf64b8d7f961": {
+            "position": [
+                14300000,
+                -1800000
+            ]
+        },
+        "4108cab2-c1da-4d7d-9539-b6380a2fcd2f": {
+            "position": [
+                17800000,
+                3000000
+            ]
+        },
+        "43ff2110-3fc3-425f-a692-7302ceed2c24": {
+            "position": [
+                12000000,
+                -2300000
+            ]
+        },
+        "62cc708a-587b-4ced-9478-f88fa2182494": {
+            "position": [
+                12000000,
+                3000000
+            ]
+        },
+        "78e1d62f-3ba6-4748-94cd-ab0111443a4b": {
+            "position": [
+                15500000,
+                -1800000
+            ]
+        },
+        "7981b67e-d287-4a10-9532-41cc8a8bd3c0": {
+            "position": [
+                12500000,
+                -1800000
+            ]
+        },
+        "9857678c-ad28-4530-9b53-87d27d97dbe0": {
+            "position": [
+                17300000,
+                2500000
+            ]
+        },
+        "c521f47c-9d11-4ce7-aa8b-2c1da255a386": {
+            "position": [
+                12500000,
+                2500000
+            ]
+        },
+        "cb8a44ac-6a19-4a68-80f5-0ca28e1a8211": {
+            "position": [
+                17300000,
+                2500000
+            ]
+        },
+        "d6364d57-814d-4d29-b72f-6f379cfcfd3f": {
+            "position": [
+                17300000,
+                -1800000
+            ]
+        },
+        "fb41a0e1-575c-42be-859f-d8944287eca7": {
+            "position": [
+                14300000,
+                2500000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "18e7ed39-f0bd-442f-bb5d-2b094e9082c4": {
+            "from": "7981b67e-d287-4a10-9532-41cc8a8bd3c0",
+            "layer": 40,
+            "to": "c521f47c-9d11-4ce7-aa8b-2c1da255a386",
+            "width": 0
+        },
+        "1df77d24-26a3-4588-96b9-ebdbb1f15938": {
+            "from": "c521f47c-9d11-4ce7-aa8b-2c1da255a386",
+            "layer": 40,
+            "to": "9857678c-ad28-4530-9b53-87d27d97dbe0",
+            "width": 0
+        },
+        "301d4b28-5adc-4eee-9843-7a94e8440359": {
+            "from": "cb8a44ac-6a19-4a68-80f5-0ca28e1a8211",
+            "layer": 20,
+            "to": "d6364d57-814d-4d29-b72f-6f379cfcfd3f",
+            "width": 100000
+        },
+        "3f46f34f-349d-42be-9ee8-8ff1b1ad97ff": {
+            "from": "4108cab2-c1da-4d7d-9539-b6380a2fcd2f",
+            "layer": 60,
+            "to": "0edde143-ecc0-4762-9a34-9b8296c94570",
+            "width": 0
+        },
+        "47811667-1f95-4bf8-b0ee-b915d3791078": {
+            "from": "0edde143-ecc0-4762-9a34-9b8296c94570",
+            "layer": 60,
+            "to": "43ff2110-3fc3-425f-a692-7302ceed2c24",
+            "width": 0
+        },
+        "5a4884c2-db5c-4542-b4e6-59252f4cef39": {
+            "from": "3c69eab9-2a9a-4fc7-9848-feae1010422d",
+            "layer": 40,
+            "to": "7981b67e-d287-4a10-9532-41cc8a8bd3c0",
+            "width": 0
+        },
+        "8b1c75f8-a476-4d98-a02e-db91da925145": {
+            "from": "78e1d62f-3ba6-4748-94cd-ab0111443a4b",
+            "layer": 40,
+            "to": "2d936105-0b99-4c7b-9fd1-3e8e17f4c414",
+            "width": 0
+        },
+        "8e529847-7103-485e-889d-adfad5255a58": {
+            "from": "3c69eab9-2a9a-4fc7-9848-feae1010422d",
+            "layer": 40,
+            "to": "7981b67e-d287-4a10-9532-41cc8a8bd3c0",
+            "width": 0
+        },
+        "ac4c8c55-8e27-4a0b-b063-f67e1a3168fa": {
+            "from": "21cc7690-2620-49ab-aba2-f541f93b11c2",
+            "layer": 20,
+            "to": "161ecd11-63e6-4e70-8e88-fe2785e5336a",
+            "width": 100000
+        },
+        "ae6b1293-60ab-42e3-9fe7-2b93076f9701": {
+            "from": "c521f47c-9d11-4ce7-aa8b-2c1da255a386",
+            "layer": 40,
+            "to": "9857678c-ad28-4530-9b53-87d27d97dbe0",
+            "width": 0
+        },
+        "b9086944-fd14-486c-98f5-dbf6e7c7b074": {
+            "from": "7981b67e-d287-4a10-9532-41cc8a8bd3c0",
+            "layer": 40,
+            "to": "c521f47c-9d11-4ce7-aa8b-2c1da255a386",
+            "width": 0
+        },
+        "bb2db61e-b198-452a-955b-30e11eaa1066": {
+            "from": "fb41a0e1-575c-42be-859f-d8944287eca7",
+            "layer": 40,
+            "to": "40ecb2c6-cf46-4ff7-9663-bf64b8d7f961",
+            "width": 0
+        },
+        "c507c60e-22b6-4fe1-8f72-2c4132e622c3": {
+            "from": "d6364d57-814d-4d29-b72f-6f379cfcfd3f",
+            "layer": 20,
+            "to": "21cc7690-2620-49ab-aba2-f541f93b11c2",
+            "width": 100000
+        },
+        "d0f4d740-f495-4993-bec6-dbd66e82744c": {
+            "from": "9857678c-ad28-4530-9b53-87d27d97dbe0",
+            "layer": 40,
+            "to": "3c69eab9-2a9a-4fc7-9848-feae1010422d",
+            "width": 0
+        },
+        "ee41eecc-3af9-4304-8319-7686c13fa57a": {
+            "from": "62cc708a-587b-4ced-9478-f88fa2182494",
+            "layer": 60,
+            "to": "4108cab2-c1da-4d7d-9539-b6380a2fcd2f",
+            "width": 0
+        },
+        "f12dccc9-a2f9-4929-8aaa-24971367fbaf": {
+            "from": "43ff2110-3fc3-425f-a692-7302ceed2c24",
+            "layer": 60,
+            "to": "62cc708a-587b-4ced-9478-f88fa2182494",
+            "width": 0
+        },
+        "f1a79f77-5ca0-4df3-b848-b99d040d9861": {
+            "from": "9857678c-ad28-4530-9b53-87d27d97dbe0",
+            "layer": 40,
+            "to": "3c69eab9-2a9a-4fc7-9848-feae1010422d",
+            "width": 0
+        },
+        "f980ad4b-6c6c-4154-9866-c815e31783a7": {
+            "from": "161ecd11-63e6-4e70-8e88-fe2785e5336a",
+            "layer": 20,
+            "to": "cb8a44ac-6a19-4a68-80f5-0ca28e1a8211",
+            "width": 100000
+        }
+    },
+    "manufacturer": "",
+    "models": {},
+    "name": "FPI0403S-100M",
+    "pads": {
+        "1042a8a3-da4e-4a69-9a4f-df3d6fa65fa0": {
+            "name": "1",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 4300000,
+                "pad_width": 1800000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    13400000,
+                    350000
+                ]
+            }
+        },
+        "42ee5be3-ec7e-4ff0-94d6-aba105b3bbc5": {
+            "name": "2",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 4300000,
+                "pad_width": 1800000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    16400000,
+                    350000
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "ind"
+    ],
+    "texts": {
+        "73da8dc7-6675-4629-9a4b-7efeff5287bb": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    14888000,
+                    928000
+                ]
+            },
+            "size": 400000,
+            "text": "$RD",
+            "width": 0
+        },
+        "a2389411-f015-4270-8b0d-902a6ae6ae45": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    12188000,
+                    3828000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        }
+    },
+    "type": "package",
+    "uuid": "399a8b62-5b29-4fbd-b0cd-d84a2d87a0a7"
+}

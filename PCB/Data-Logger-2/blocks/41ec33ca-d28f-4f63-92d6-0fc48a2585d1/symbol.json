@@ -1,0 +1,263 @@
+{
+    "arcs": {},
+    "block": "41ec33ca-d28f-4f63-92d6-0fc48a2585d1",
+    "junctions": {
+        "08532590-ebbf-43a6-8411-11da9edcbe3c": {
+            "position": [
+                -7500000,
+                5000000
+            ]
+        },
+        "9114d561-4981-4984-bc24-b8feff14085d": {
+            "position": [
+                7500000,
+                -30000000
+            ]
+        },
+        "9506db8e-af57-422d-913d-5d1d18285417": {
+            "position": [
+                -7500000,
+                5000000
+            ]
+        },
+        "a2577546-cba9-40ea-aef2-f9820694b3c1": {
+            "position": [
+                7500000,
+                5000000
+            ]
+        },
+        "d5fa716d-2134-4313-a276-cbc890c6c286": {
+            "position": [
+                7500000,
+                5000000
+            ]
+        },
+        "e92053d0-6329-49e7-8f4c-e49c2f8370fc": {
+            "position": [
+                7500000,
+                5000000
+            ]
+        },
+        "f67d6378-dd4a-4fc0-ab1d-9bb745a76070": {
+            "position": [
+                -7500000,
+                -30000000
+            ]
+        },
+        "fc7a5082-ee7e-42f8-a7ad-6847bb974061": {
+            "position": [
+                -7500000,
+                5000000
+            ]
+        }
+    },
+    "lines": {
+        "203d45e8-5243-41c8-8237-ed4e923d7a24": {
+            "from": "9114d561-4981-4984-bc24-b8feff14085d",
+            "layer": 0,
+            "to": "f67d6378-dd4a-4fc0-ab1d-9bb745a76070",
+            "width": 0
+        },
+        "41f57c5d-4eae-4c47-916b-9d610a8c8d26": {
+            "from": "9506db8e-af57-422d-913d-5d1d18285417",
+            "layer": 0,
+            "to": "a2577546-cba9-40ea-aef2-f9820694b3c1",
+            "width": 0
+        },
+        "62f1e034-04e7-467a-80bb-135906f9ae9e": {
+            "from": "fc7a5082-ee7e-42f8-a7ad-6847bb974061",
+            "layer": 0,
+            "to": "d5fa716d-2134-4313-a276-cbc890c6c286",
+            "width": 0
+        },
+        "7a53d723-48bc-47f7-b27f-ca14996ddeb3": {
+            "from": "f67d6378-dd4a-4fc0-ab1d-9bb745a76070",
+            "layer": 0,
+            "to": "9506db8e-af57-422d-913d-5d1d18285417",
+            "width": 0
+        },
+        "a7b96fe7-a466-4367-802c-40ec998dc681": {
+            "from": "08532590-ebbf-43a6-8411-11da9edcbe3c",
+            "layer": 0,
+            "to": "e92053d0-6329-49e7-8f4c-e49c2f8370fc",
+            "width": 0
+        },
+        "f534f6c5-1c41-4183-95db-47827bc8ca82": {
+            "from": "a2577546-cba9-40ea-aef2-f9820694b3c1",
+            "layer": 0,
+            "to": "9114d561-4981-4984-bc24-b8feff14085d",
+            "width": 0
+        }
+    },
+    "pictures": {},
+    "ports": {
+        "16e399c6-342e-5e0d-bd79-35ded597fc80": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "8951b6b5-45eb-4301-9f6d-ce6c0a595cd3",
+            "orientation": "left",
+            "position": [
+                -10000000,
+                -23750000
+            ]
+        },
+        "22dd243d-5c51-5ea6-9f49-dec3032dbe08": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "d7565065-ca27-4125-b95d-5b534420fd5d",
+            "orientation": "left",
+            "position": [
+                -10000000,
+                -16250000
+            ]
+        },
+        "288598e9-91af-531a-a15c-f66502eae879": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "9cacbea8-16c4-4640-9a60-e1730fce3f43",
+            "orientation": "right",
+            "position": [
+                10000000,
+                -1250000
+            ]
+        },
+        "2c37a136-3507-5c8d-bb9f-87f0650ca59f": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "81c59d82-c2da-463d-b45f-e719a3ae2e7c",
+            "orientation": "left",
+            "position": [
+                -10000000,
+                -27500000
+            ]
+        },
+        "320eaee5-c6de-51b5-adf8-209b4e1d641a": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "20193352-e46a-4152-a251-53ec47d47e4f",
+            "orientation": "right",
+            "position": [
+                10000000,
+                2500000
+            ]
+        },
+        "4e168a73-9da6-5704-8434-7dc8c23438e3": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "79ff79c2-e399-4cc1-9ab9-ebdd0beb2ac0",
+            "orientation": "left",
+            "position": [
+                -10000000,
+                2500000
+            ]
+        },
+        "a12f304c-9bc2-5b6c-9f06-03b8362e4cf3": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "f6f8bee4-cbf2-4acf-ab97-d34824ef064b",
+            "orientation": "left",
+            "position": [
+                -10000000,
+                -20000000
+            ]
+        },
+        "aa9c30f0-2090-5643-9ce5-ed8faf5ebe8d": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "4b5204e4-1f63-4611-9179-0fab3aec5021",
+            "orientation": "right",
+            "position": [
+                10000000,
+                -8750000
+            ]
+        },
+        "ac15e208-2701-5685-a2db-7a7837692773": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "d658a38f-c829-46f9-a727-6b7de35e32e3",
+            "orientation": "left",
+            "position": [
+                -10000000,
+                -8750000
+            ]
+        },
+        "acb8859f-fb9a-5e14-af3a-e808a2fb93ac": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "e9e87160-87ad-4c15-8334-691e6c4b344c",
+            "orientation": "left",
+            "position": [
+                -10000000,
+                -1250000
+            ]
+        },
+        "b60a9f19-60a4-596e-991a-b5ee19aafff4": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "43170ab0-bd22-43e1-8440-95d4b7af360f",
+            "orientation": "left",
+            "position": [
+                -10000000,
+                -12500000
+            ]
+        },
+        "bf0833dd-9bc6-57e8-b823-1274d02450ee": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "7583c8d7-f6e9-4d06-b892-cbb31ec3c454",
+            "orientation": "left",
+            "position": [
+                -10000000,
+                -5000000
+            ]
+        },
+        "c8a7f509-c0e1-57f2-ab8d-7be08a1d1fa7": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "012c9cf0-6d25-4dc6-a09a-8be6bedc22a9",
+            "orientation": "right",
+            "position": [
+                10000000,
+                -5000000
+            ]
+        }
+    },
+    "texts": {
+        "95cf11e9-8918-4be9-8952-d42957d69bd1": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -7500000,
+                    8750000
+                ]
+            },
+            "size": 1500000,
+            "text": "OP Driven Switch",
+            "width": 0
+        },
+        "d8582d99-790f-4864-be3f-3d9e53956dbb": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -7500000,
+                    6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "EN>2.5V",
+            "width": 0
+        }
+    },
+    "type": "block_symbol",
+    "uuid": "302bf2ce-b59e-4b49-8f1e-e4b5d2f3f59b"
+}

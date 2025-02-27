@@ -1,0 +1,127 @@
+{
+    "arcs": {},
+    "block": "48b81eed-81c6-4445-9938-19b403fab74b",
+    "junctions": {
+        "35f1ff29-60ff-442f-81b0-f89f39d94ad2": {
+            "position": [
+                -7500000,
+                5000000
+            ]
+        },
+        "3dc25040-5c6e-48b4-b934-dc95dde8de5b": {
+            "position": [
+                7500000,
+                5000000
+            ]
+        },
+        "7234df67-44bc-49b8-85bc-4dcadd728161": {
+            "position": [
+                -7500000,
+                -5000000
+            ]
+        },
+        "ab5cac77-d270-459b-ad4f-444974d61f36": {
+            "position": [
+                7500000,
+                -5000000
+            ]
+        }
+    },
+    "lines": {
+        "1e1b20fc-9930-458e-a344-719d7c4fbc85": {
+            "from": "3dc25040-5c6e-48b4-b934-dc95dde8de5b",
+            "layer": 0,
+            "to": "ab5cac77-d270-459b-ad4f-444974d61f36",
+            "width": 0
+        },
+        "3eaf403e-9997-4c37-b954-6e7f7e5cd046": {
+            "from": "35f1ff29-60ff-442f-81b0-f89f39d94ad2",
+            "layer": 0,
+            "to": "3dc25040-5c6e-48b4-b934-dc95dde8de5b",
+            "width": 0
+        },
+        "82b548e0-6fc9-4173-9429-e2c767a4ed76": {
+            "from": "ab5cac77-d270-459b-ad4f-444974d61f36",
+            "layer": 0,
+            "to": "7234df67-44bc-49b8-85bc-4dcadd728161",
+            "width": 0
+        },
+        "d663a927-6515-44ef-8914-ca209066fc52": {
+            "from": "7234df67-44bc-49b8-85bc-4dcadd728161",
+            "layer": 0,
+            "to": "35f1ff29-60ff-442f-81b0-f89f39d94ad2",
+            "width": 0
+        }
+    },
+    "pictures": {},
+    "ports": {
+        "373a96d6-57b9-5688-89f2-ba2fea8b47eb": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "68754609-9b76-4677-9ddf-dd265494e685",
+            "orientation": "left",
+            "position": [
+                -10000000,
+                2500000
+            ]
+        },
+        "4bcabf15-1894-524a-84c0-6b5605df3e2e": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "3972a0b2-1a7f-405a-a6aa-c0cd399ddce9",
+            "orientation": "left",
+            "position": [
+                -10000000,
+                -2500000
+            ]
+        },
+        "5e7aa16e-07e6-5a1c-8be3-bc8a732882fb": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "cf6b3c6f-0ecd-4401-bc7f-26b176e64535",
+            "orientation": "right",
+            "position": [
+                10000000,
+                2500000
+            ]
+        }
+    },
+    "texts": {
+        "16687147-c635-4383-b4ff-be073d06d8ab": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -7500000,
+                    8750000
+                ]
+            },
+            "size": 1500000,
+            "text": "LM337 Negative Linear Regulator",
+            "width": 0
+        },
+        "9c3e6957-fd2d-42e0-a830-7e4c0a6e3d0c": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -7500000,
+                    6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "VOUT=(R(ADJ-GND)/120+1)*1.25V",
+            "width": 0
+        }
+    },
+    "type": "block_symbol",
+    "uuid": "61ec0653-4019-4043-ad5d-711f13e8766c"
+}

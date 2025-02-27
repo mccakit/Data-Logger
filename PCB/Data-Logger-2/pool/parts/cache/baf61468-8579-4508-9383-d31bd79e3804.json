@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "DG128-5.0 2 pin terminal"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "DG128-5.0 2 pin terminal"
+    ],
+    "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "b568f409-393e-429f-885e-f78ce5c5e4d7",
+    "package": "6361fc6a-87e9-4b39-b4d4-330c75141372",
+    "pad_map": {
+        "194d904d-308a-495b-8424-cd3c9c482053": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "b3cef4f5-fe6c-45b5-b063-1618f997168f"
+        },
+        "a4d298f1-fc2b-40f4-a825-a0f1d09147c5": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "588536f1-9e96-4500-bcbb-4ba48082b643"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "baf61468-8579-4508-9383-d31bd79e3804",
+    "value": [
+        false,
+        ""
+    ]
+}

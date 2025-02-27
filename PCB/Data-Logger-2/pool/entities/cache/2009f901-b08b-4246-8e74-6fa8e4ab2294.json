@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "d523746f-7eb5-4ed6-a1bc-ab33c1b707ad": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "bda95bb8-559f-4c71-94ce-f2d5f0886a2a"
+        }
+    },
+    "manufacturer": "",
+    "name": "CH340G",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "2009f901-b08b-4246-8e74-6fa8e4ab2294"
+}

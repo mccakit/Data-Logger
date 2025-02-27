@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "BLA25VC100MF80TP"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "092bf011-62d7-48b5-9fff-cec0cd640be6",
+    "pad_map": {
+        "57764d77-f25e-40b1-8b4a-4d4ee42dcaf7": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        },
+        "fee27b19-8d6c-40ae-ab32-186df386b064": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "7b3acec7-25b7-4f44-8c43-09f9832e5b18",
+    "value": [
+        false,
+        ""
+    ]
+}

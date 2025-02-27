@@ -1,0 +1,104 @@
+{
+    "manufacturer": "",
+    "name": "SN74HC595N",
+    "pins": {
+        "0168e6a4-6c64-4861-b3f9-80950e40b9fa": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "0e55ef42-8e27-497e-90a6-adf15fdaeb81": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "22308ff4-e6e6-429c-b3bd-6a131fb3128e": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QG",
+            "swap_group": 0
+        },
+        "2280c083-aa92-4987-a0c9-9d1b1eb49316": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QC",
+            "swap_group": 0
+        },
+        "29381ddd-9f36-41a1-9741-deefb0f5327d": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QH",
+            "swap_group": 0
+        },
+        "3d2e0d25-8719-40c1-be8f-fb53b0c8492f": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QD",
+            "swap_group": 0
+        },
+        "638e1629-89e1-4b59-acd4-f36426b5efa7": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QF",
+            "swap_group": 0
+        },
+        "71e761ca-0b5e-4f14-bdf0-db1e85476179": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QE",
+            "swap_group": 0
+        },
+        "7eaf5dca-7afa-4f0a-9a35-adf6dcceded6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~OE",
+            "swap_group": 0
+        },
+        "9988c35d-d992-4f34-a916-d5edf2e0d3d4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SRCLK",
+            "swap_group": 0
+        },
+        "acb25f0f-5b48-499a-a45b-5d4839f4d2c5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RCLK",
+            "swap_group": 0
+        },
+        "c418d339-c7c5-4093-8e30-d8f2827aae7c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QH'",
+            "swap_group": 0
+        },
+        "c52fa41a-3468-4097-8b07-4ef6124bbf3a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QB",
+            "swap_group": 0
+        },
+        "d7a60f69-d977-4e33-868f-44c7e4654803": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~SRCLR",
+            "swap_group": 0
+        },
+        "f2df2a5a-af59-44ff-aa7e-70431161c016": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SER",
+            "swap_group": 0
+        },
+        "f320d0c5-c40d-4702-b5ca-5bf9ea71dd30": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "QA",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a0bbdc73-b8af-4c84-9f92-7d670a20695f"
+}

@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "KLS1-181A USB TERMINAL"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "USB Terminal"
+    ],
+    "entity": "64ffe153-20d8-4902-9321-1f18027cb84d",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "1a7fb984-ce2d-425a-a644-880de4da0499",
+    "package": "801d2acf-3b40-4b3e-ada3-2b7a8ece2f66",
+    "pad_map": {
+        "017fc023-76cb-4396-837d-f07b91cd7b96": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "4b3e1234-17b7-41dc-af26-90574ec82303"
+        },
+        "0ad5e1c0-7924-46e4-a2cf-d12fed4c2068": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "aab503ca-26da-43ff-a268-cf0db0698910"
+        },
+        "2398f34a-51d2-4944-8a35-10034a0ac3f7": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "423d0d6c-4330-417f-a6f0-267741d4c770"
+        },
+        "3050a9a0-7014-471d-b5b3-8dea11669531": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "9c153b03-fb7b-4f99-a5ed-ca45d3ae512e"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "77691e49-d9ac-4713-90b9-a67cc17c3962",
+    "value": [
+        false,
+        ""
+    ]
+}

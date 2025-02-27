@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "SMD CAP 12.5x13.5mm"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "12.5x13.5mm SMD NS CAP"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "356a3701-487f-44f7-9314-acaea2ac6b39",
+    "package": "fe023064-80ef-44db-a3eb-22d8e7ed8ddd",
+    "pad_map": {
+        "072f68a0-0341-4125-bacf-e2bc33bd09d2": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        },
+        "81ad7879-4a1d-4c07-a1c9-b16a92f4716e": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "dd4f5a93-18de-46d7-b46d-14ee2a73a08c",
+    "value": [
+        false,
+        ""
+    ]
+}

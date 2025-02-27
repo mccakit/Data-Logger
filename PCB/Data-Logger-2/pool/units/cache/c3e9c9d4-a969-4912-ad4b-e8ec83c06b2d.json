@@ -1,0 +1,56 @@
+{
+    "manufacturer": "",
+    "name": "SD_Card",
+    "pins": {
+        "05ddc663-1d4f-472d-a4ab-e1aff2501d2f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DAT0",
+            "swap_group": 0
+        },
+        "42043bb1-e1a7-498a-ab5f-7eec5974b294": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "77223696-069a-4ae0-b5f7-9312b315996d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CLK",
+            "swap_group": 0
+        },
+        "aea10a4c-b11c-4b33-bfd6-6f923cbb2fa0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CD/DAT3",
+            "swap_group": 0
+        },
+        "ca9e04f6-e037-4be1-a9ae-de949c799dfc": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "d67bc920-d88b-453a-86a0-d6f1c775e524": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DAT2",
+            "swap_group": 0
+        },
+        "df1024b9-2f54-4325-a38b-385d1d99df69": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CMD",
+            "swap_group": 0
+        },
+        "e23f3579-91fc-47b6-be81-fabc628b9d25": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DAT1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "c3e9c9d4-a969-4912-ad4b-e8ec83c06b2d"
+}

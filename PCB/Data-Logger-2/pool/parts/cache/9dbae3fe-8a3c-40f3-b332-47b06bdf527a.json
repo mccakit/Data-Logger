@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "T491A105M020AT"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SMD Tantalum Capacitor"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "b8d1e833-1544-4ddb-b07d-d0f3e8ab38ca",
+    "pad_map": {
+        "07dd18b5-f99a-4335-bdc8-4ce17257a342": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        },
+        "e93291ac-6181-4516-a6e1-1a426438de0b": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "capacitor"
+    ],
+    "type": "part",
+    "uuid": "9dbae3fe-8a3c-40f3-b332-47b06bdf527a",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "NRS3015T 1R0NNGH"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Inductor"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "04013c6c-3409-4040-8d84-1825f81832b0",
+    "pad_map": {
+        "66d5170c-9149-47b2-becc-b179332aaf55": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "f5e999d0-f38a-47ab-bd26-3e1e0672e515": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor"
+    ],
+    "type": "part",
+    "uuid": "81fcf0e0-ce2a-4bf8-a153-5d11ca626be4",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "5f809660-e823-4049-b3cc-d38b92b07385": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e5437784-a321-47da-929f-c706b70c9838"
+        }
+    },
+    "manufacturer": "",
+    "name": "TPD1E10B06DPYR",
+    "prefix": "D",
+    "tags": [],
+    "type": "entity",
+    "uuid": "13a6654d-02b1-4775-b445-feb9afb2e62d"
+}

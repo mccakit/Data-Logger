@@ -1,0 +1,133 @@
+{
+    "arcs": {},
+    "block": "42b42cb8-3633-44be-9a37-133b56aed961",
+    "junctions": {
+        "05a8ebc4-616f-4679-a01e-80db6906a867": {
+            "position": [
+                -7500000,
+                5000000
+            ]
+        },
+        "09b5aece-d7b4-4dc2-8d98-e5e756b323f4": {
+            "position": [
+                6250000,
+                -3750000
+            ]
+        },
+        "5ada3df3-e082-4484-b5d4-c6d689c92571": {
+            "position": [
+                -7500000,
+                -3750000
+            ]
+        },
+        "81e360ae-37d2-4463-b657-7fd66e8f2916": {
+            "position": [
+                -7500000,
+                5000000
+            ]
+        },
+        "93b2ee16-cc87-4e17-b97f-f029b9e75681": {
+            "position": [
+                6250000,
+                5000000
+            ]
+        }
+    },
+    "lines": {
+        "0440cfaa-f09b-45b6-aa41-1d9c2b2f73e0": {
+            "from": "93b2ee16-cc87-4e17-b97f-f029b9e75681",
+            "layer": 0,
+            "to": "09b5aece-d7b4-4dc2-8d98-e5e756b323f4",
+            "width": 0
+        },
+        "62e4dc90-c319-4d3f-9979-f277fbf9ad18": {
+            "from": "09b5aece-d7b4-4dc2-8d98-e5e756b323f4",
+            "layer": 0,
+            "to": "5ada3df3-e082-4484-b5d4-c6d689c92571",
+            "width": 0
+        },
+        "7b830f0b-b91e-4104-a194-99991bd8ad58": {
+            "from": "5ada3df3-e082-4484-b5d4-c6d689c92571",
+            "layer": 0,
+            "to": "05a8ebc4-616f-4679-a01e-80db6906a867",
+            "width": 0
+        },
+        "efb9d279-840a-4265-9def-a2b9b082e890": {
+            "from": "05a8ebc4-616f-4679-a01e-80db6906a867",
+            "layer": 0,
+            "to": "93b2ee16-cc87-4e17-b97f-f029b9e75681",
+            "width": 0
+        }
+    },
+    "pictures": {},
+    "ports": {
+        "a0ad26b5-b5da-590b-8216-090eeba07a67": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "36e1a7c6-1f5a-45dd-a88e-1c679274a0a2",
+            "orientation": "right",
+            "position": [
+                8750000,
+                2500000
+            ]
+        },
+        "e9756ad0-94a5-5cf3-8f15-b7258236b4bf": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "c50f699e-dbfb-4b21-a6db-f38fff446474",
+            "orientation": "left",
+            "position": [
+                -10000000,
+                -1250000
+            ]
+        },
+        "edb5f51e-aad0-5e5b-a7ec-694b69003a5a": {
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "net": "0652ea0f-f957-40e6-b6c7-c7fc11b8f5e9",
+            "orientation": "left",
+            "position": [
+                -10000000,
+                2500000
+            ]
+        }
+    },
+    "texts": {
+        "6b1c9cfe-3f72-42cb-9099-61d54673c5c7": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -7500000,
+                    6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "VOUT=(R(ADJ-GND)/240+1)*1.25V",
+            "width": 0
+        },
+        "e76b1e87-5f91-4758-89d3-a3e59b378197": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -7500000,
+                    8750000
+                ]
+            },
+            "size": 1500000,
+            "text": "DS1117 Linear Regulator",
+            "width": 0
+        }
+    },
+    "type": "block_symbol",
+    "uuid": "c9ad2d34-5cda-4c88-b325-5611278219d1"
+}

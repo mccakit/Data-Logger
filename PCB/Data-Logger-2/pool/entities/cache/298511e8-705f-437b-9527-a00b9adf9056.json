@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "59f44348-fc1a-4bd3-8596-9f779541478b": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "09aab4be-90c4-4903-b7ed-bf65f158c365"
+        }
+    },
+    "manufacturer": "",
+    "name": "MC34063EBD-TR",
+    "prefix": "IC",
+    "tags": [],
+    "type": "entity",
+    "uuid": "298511e8-705f-437b-9527-a00b9adf9056"
+}

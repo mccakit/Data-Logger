@@ -1,0 +1,240 @@
+{
+    "arcs": {},
+    "default_model": "5303c4f2-5b67-4c3e-af87-80b78468354b",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "1a880f4c-f3c5-4676-866c-9edea966621d": {
+            "position": [
+                -3300000,
+                1150000
+            ]
+        },
+        "4ac9ab84-5602-49d3-9516-c719bbba6e17": {
+            "position": [
+                -1950000,
+                3300000
+            ]
+        },
+        "55deb346-fa86-43b3-a0dd-198cbefeb894": {
+            "position": [
+                3300000,
+                -3300000
+            ]
+        },
+        "696fbc13-2b16-4a67-b942-79512ef7a1d6": {
+            "position": [
+                -3300000,
+                1950000
+            ]
+        },
+        "95f6ea25-2fa6-45d7-a752-f765bba3f281": {
+            "position": [
+                3300000,
+                3300000
+            ]
+        },
+        "9b07df9b-892c-4078-829d-ebab4669062d": {
+            "position": [
+                -1950000,
+                -3300000
+            ]
+        },
+        "aa6aad54-b4a7-4df7-8c55-031f52f05220": {
+            "position": [
+                3300000,
+                -1150000
+            ]
+        },
+        "e81bee1d-f586-4497-a7ef-b9c3f5a26593": {
+            "position": [
+                3300000,
+                1150000
+            ]
+        },
+        "f5201e4f-d56b-4546-b3b8-18d339b8b6c7": {
+            "position": [
+                -3300000,
+                -1950000
+            ]
+        },
+        "f66fb205-d32a-4216-87c6-f926d1a1a8de": {
+            "position": [
+                -3300000,
+                -1150000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "1a7097a2-24eb-4ed9-ad54-729a4da94023": {
+            "from": "4ac9ab84-5602-49d3-9516-c719bbba6e17",
+            "layer": 20,
+            "to": "95f6ea25-2fa6-45d7-a752-f765bba3f281",
+            "width": 127000
+        },
+        "2451b744-2484-47e6-9011-cebd9d774245": {
+            "from": "4ac9ab84-5602-49d3-9516-c719bbba6e17",
+            "layer": 50,
+            "to": "95f6ea25-2fa6-45d7-a752-f765bba3f281",
+            "width": 0
+        },
+        "29cf3917-7d98-4160-a850-f09354a584b1": {
+            "from": "55deb346-fa86-43b3-a0dd-198cbefeb894",
+            "layer": 20,
+            "to": "aa6aad54-b4a7-4df7-8c55-031f52f05220",
+            "width": 127000
+        },
+        "3a2bf70c-7072-4f38-8a04-df279ef244d2": {
+            "from": "f5201e4f-d56b-4546-b3b8-18d339b8b6c7",
+            "layer": 20,
+            "to": "9b07df9b-892c-4078-829d-ebab4669062d",
+            "width": 127000
+        },
+        "68929b56-178d-4a03-bcfd-62f8b8f2bdca": {
+            "from": "9b07df9b-892c-4078-829d-ebab4669062d",
+            "layer": 50,
+            "to": "f5201e4f-d56b-4546-b3b8-18d339b8b6c7",
+            "width": 0
+        },
+        "71cbdf5a-8d4d-48fe-af70-fda1b088b95a": {
+            "from": "55deb346-fa86-43b3-a0dd-198cbefeb894",
+            "layer": 50,
+            "to": "9b07df9b-892c-4078-829d-ebab4669062d",
+            "width": 0
+        },
+        "7dff78bd-8abf-4db4-986e-5578e55b5f32": {
+            "from": "95f6ea25-2fa6-45d7-a752-f765bba3f281",
+            "layer": 50,
+            "to": "55deb346-fa86-43b3-a0dd-198cbefeb894",
+            "width": 0
+        },
+        "89ea1b84-7a88-4343-90c0-1135bc937944": {
+            "from": "696fbc13-2b16-4a67-b942-79512ef7a1d6",
+            "layer": 50,
+            "to": "4ac9ab84-5602-49d3-9516-c719bbba6e17",
+            "width": 0
+        },
+        "92bbca3a-7947-413a-800d-4f3de9050c4d": {
+            "from": "f5201e4f-d56b-4546-b3b8-18d339b8b6c7",
+            "layer": 50,
+            "to": "696fbc13-2b16-4a67-b942-79512ef7a1d6",
+            "width": 0
+        },
+        "92cbd99b-3a4a-4774-a309-e016f3512ff4": {
+            "from": "f66fb205-d32a-4216-87c6-f926d1a1a8de",
+            "layer": 20,
+            "to": "f5201e4f-d56b-4546-b3b8-18d339b8b6c7",
+            "width": 127000
+        },
+        "937ce7bb-c53a-4ea8-b548-b44dcae95b62": {
+            "from": "696fbc13-2b16-4a67-b942-79512ef7a1d6",
+            "layer": 20,
+            "to": "4ac9ab84-5602-49d3-9516-c719bbba6e17",
+            "width": 127000
+        },
+        "c0acd8a4-3e75-49f1-b2cf-75d25561b1de": {
+            "from": "95f6ea25-2fa6-45d7-a752-f765bba3f281",
+            "layer": 20,
+            "to": "e81bee1d-f586-4497-a7ef-b9c3f5a26593",
+            "width": 127000
+        },
+        "d36c984f-5ea0-4141-8582-8e03dcff5ea8": {
+            "from": "1a880f4c-f3c5-4676-866c-9edea966621d",
+            "layer": 20,
+            "to": "696fbc13-2b16-4a67-b942-79512ef7a1d6",
+            "width": 127000
+        },
+        "feccbe27-e0e5-4fa1-84db-1801a62b9d97": {
+            "from": "9b07df9b-892c-4078-829d-ebab4669062d",
+            "layer": 20,
+            "to": "55deb346-fa86-43b3-a0dd-198cbefeb894",
+            "width": 127000
+        }
+    },
+    "manufacturer": "",
+    "models": {
+        "5303c4f2-5b67-4c3e-af87-80b78468354b": {
+            "filename": "3d_models/cache/6d752bc3-29b3-45df-8cf2-1e3aacefbcc6/mccakit/SMD CAP 6.3x6mm/6SVP120MV.step",
+            "pitch": 0,
+            "roll": 49152,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "SMD CAP 6.3x6mm",
+    "pads": {
+        "48f2d338-640c-4b3e-9c6a-ca299ed2322e": {
+            "name": "2",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 1600000,
+                "pad_width": 3500000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2800000,
+                    0
+                ]
+            }
+        },
+        "fa3f76b0-526a-4d9b-8e82-bfb897133a87": {
+            "name": "1",
+            "padstack": "3846f4bf-7acf-403a-bc36-771ec675eac9",
+            "parameter_set": {
+                "pad_height": 1600000,
+                "pad_width": 3500000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2800000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "capacitor",
+        "mccakit",
+        "smd"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "9c9e8698-c3cd-4c5b-99c2-f00fd4a1b88e"
+}

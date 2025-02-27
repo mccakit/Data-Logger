@@ -1,0 +1,73 @@
+{
+    "MPN": [
+        false,
+        "L-KLS1-TF-003-H1.85-R MicroSD Card Terminal"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SD Card Terminal"
+    ],
+    "entity": "600f95f9-b1ff-4f74-bade-b3ae70c5b303",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "ef47534c-ec33-46f1-8aca-e68df538655e",
+    "package": "8c379544-b6e5-4989-9fb2-442d2b3d25f5",
+    "pad_map": {
+        "0d966206-2aaf-475c-93dc-775b61c6dfcd": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "e23f3579-91fc-47b6-be81-fabc628b9d25"
+        },
+        "1b809045-5db4-4f42-acc1-880157cd10fd": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "42043bb1-e1a7-498a-ab5f-7eec5974b294"
+        },
+        "252fd2b6-2981-4583-ae8e-f5e63a6f9791": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "77223696-069a-4ae0-b5f7-9312b315996d"
+        },
+        "74dcf476-e678-40ec-854b-5b1e5c5dc7ac": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "aea10a4c-b11c-4b33-bfd6-6f923cbb2fa0"
+        },
+        "9581f355-a1ab-40f2-b16b-66e5dd8a2e49": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "df1024b9-2f54-4325-a38b-385d1d99df69"
+        },
+        "97469122-c6a7-4b8e-868a-fdf912a2e8f0": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "aea10a4c-b11c-4b33-bfd6-6f923cbb2fa0"
+        },
+        "bd3a157e-2b22-43c6-a272-9cdd50028d60": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "42043bb1-e1a7-498a-ab5f-7eec5974b294"
+        },
+        "c018bd70-5779-4915-b9d0-03c71f4fd0b6": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "ca9e04f6-e037-4be1-a9ae-de949c799dfc"
+        },
+        "cf958903-7af4-4595-9a60-bf0690e04b84": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "d67bc920-d88b-453a-86a0-d6f1c775e524"
+        },
+        "d4d8232a-31e8-4655-88e0-0d373ebb1927": {
+            "gate": "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8",
+            "pin": "05ddc663-1d4f-472d-a4ab-e1aff2501d2f"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "f7d2390c-b292-421e-b5d2-ff2f7c9e9ba8",
+    "value": [
+        false,
+        ""
+    ]
+}

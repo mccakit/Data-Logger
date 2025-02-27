@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "c0b60849-9b9f-4952-9e43-cf68bc3ed8c8": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "c3e9c9d4-a969-4912-ad4b-e8ec83c06b2d"
+        }
+    },
+    "manufacturer": "",
+    "name": "SD Card",
+    "prefix": "",
+    "tags": [],
+    "type": "entity",
+    "uuid": "600f95f9-b1ff-4f74-bade-b3ae70c5b303"
+}

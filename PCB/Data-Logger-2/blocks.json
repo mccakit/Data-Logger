@@ -1,0 +1,61 @@
+{
+    "blocks": {
+        "1617e99a-6332-4606-baf1-9a46e14f5969": {
+            "block_filename": "top_block.json",
+            "schematic_filename": "top_schematic.json",
+            "symbol_filename": ""
+        },
+        "41ec33ca-d28f-4f63-92d6-0fc48a2585d1": {
+            "block_filename": "blocks\\41ec33ca-d28f-4f63-92d6-0fc48a2585d1\\block.json",
+            "schematic_filename": "blocks\\41ec33ca-d28f-4f63-92d6-0fc48a2585d1\\schematic.json",
+            "symbol_filename": "blocks\\41ec33ca-d28f-4f63-92d6-0fc48a2585d1\\symbol.json"
+        },
+        "42b42cb8-3633-44be-9a37-133b56aed961": {
+            "block_filename": "blocks\\42b42cb8-3633-44be-9a37-133b56aed961\\block.json",
+            "schematic_filename": "blocks\\42b42cb8-3633-44be-9a37-133b56aed961\\schematic.json",
+            "symbol_filename": "blocks\\42b42cb8-3633-44be-9a37-133b56aed961\\symbol.json"
+        },
+        "43834306-5f64-4adb-88dd-7d125fe046d3": {
+            "block_filename": "blocks\\43834306-5f64-4adb-88dd-7d125fe046d3\\block.json",
+            "schematic_filename": "blocks\\43834306-5f64-4adb-88dd-7d125fe046d3\\schematic.json",
+            "symbol_filename": "blocks\\43834306-5f64-4adb-88dd-7d125fe046d3\\symbol.json"
+        },
+        "48b81eed-81c6-4445-9938-19b403fab74b": {
+            "block_filename": "blocks\\48b81eed-81c6-4445-9938-19b403fab74b\\block.json",
+            "schematic_filename": "blocks\\48b81eed-81c6-4445-9938-19b403fab74b\\schematic.json",
+            "symbol_filename": "blocks\\48b81eed-81c6-4445-9938-19b403fab74b\\symbol.json"
+        },
+        "71bf12ce-4aca-4d0c-8c79-7f620bf9a44f": {
+            "block_filename": "blocks\\71bf12ce-4aca-4d0c-8c79-7f620bf9a44f\\block.json",
+            "schematic_filename": "blocks\\71bf12ce-4aca-4d0c-8c79-7f620bf9a44f\\schematic.json",
+            "symbol_filename": "blocks\\71bf12ce-4aca-4d0c-8c79-7f620bf9a44f\\symbol.json"
+        },
+        "8125e57c-0f6d-412e-810a-052667c6013e": {
+            "block_filename": "blocks\\8125e57c-0f6d-412e-810a-052667c6013e\\block.json",
+            "schematic_filename": "blocks\\8125e57c-0f6d-412e-810a-052667c6013e\\schematic.json",
+            "symbol_filename": "blocks\\8125e57c-0f6d-412e-810a-052667c6013e\\symbol.json"
+        },
+        "8b1b76fb-d556-4a83-83ec-75043293d874": {
+            "block_filename": "blocks\\8b1b76fb-d556-4a83-83ec-75043293d874\\block.json",
+            "schematic_filename": "blocks\\8b1b76fb-d556-4a83-83ec-75043293d874\\schematic.json",
+            "symbol_filename": "blocks\\8b1b76fb-d556-4a83-83ec-75043293d874\\symbol.json"
+        },
+        "9a2680ab-0f33-4d8d-8c83-ed416449d969": {
+            "block_filename": "blocks\\9a2680ab-0f33-4d8d-8c83-ed416449d969\\block.json",
+            "schematic_filename": "blocks\\9a2680ab-0f33-4d8d-8c83-ed416449d969\\schematic.json",
+            "symbol_filename": "blocks\\9a2680ab-0f33-4d8d-8c83-ed416449d969\\symbol.json"
+        },
+        "cc56e924-8591-42fe-a155-17d036999924": {
+            "block_filename": "blocks\\cc56e924-8591-42fe-a155-17d036999924\\block.json",
+            "schematic_filename": "blocks\\cc56e924-8591-42fe-a155-17d036999924\\schematic.json",
+            "symbol_filename": "blocks\\cc56e924-8591-42fe-a155-17d036999924\\symbol.json"
+        },
+        "feadc6ca-aa15-42a4-b8c2-a17c40140293": {
+            "block_filename": "blocks\\feadc6ca-aa15-42a4-b8c2-a17c40140293\\block.json",
+            "schematic_filename": "blocks\\feadc6ca-aa15-42a4-b8c2-a17c40140293\\schematic.json",
+            "symbol_filename": "blocks\\feadc6ca-aa15-42a4-b8c2-a17c40140293\\symbol.json"
+        }
+    },
+    "top_block": "1617e99a-6332-4606-baf1-9a46e14f5969",
+    "type": "blocks"
+}

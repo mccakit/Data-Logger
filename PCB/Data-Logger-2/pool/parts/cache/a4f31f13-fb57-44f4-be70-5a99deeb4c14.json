@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "SMD CAP 6.3x6mm"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SMD NS CAP 6.3x6mm"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "5303c4f2-5b67-4c3e-af87-80b78468354b",
+    "package": "9c9e8698-c3cd-4c5b-99c2-f00fd4a1b88e",
+    "pad_map": {
+        "48f2d338-640c-4b3e-9c6a-ca299ed2322e": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        },
+        "fa3f76b0-526a-4d9b-8e82-bfb897133a87": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "a4f31f13-fb57-44f4-be70-5a99deeb4c14",
+    "value": [
+        false,
+        ""
+    ]
+}

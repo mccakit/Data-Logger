@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "e901624e-c871-432d-97f6-0ee6daba8c97": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "99ab83b2-8788-4f1f-9df5-d3bd2fc9cb6c"
+        }
+    },
+    "manufacturer": "",
+    "name": "74HC238N",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "8731d7a5-d43f-472d-a2c1-d44c47cbc249"
+}

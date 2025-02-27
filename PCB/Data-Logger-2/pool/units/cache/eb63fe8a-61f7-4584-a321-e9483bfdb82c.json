@@ -1,0 +1,92 @@
+{
+    "manufacturer": "",
+    "name": "TXS0104EQPWRQ1",
+    "pins": {
+        "16c42836-fc30-4880-9cb1-e72b8d8e6c1a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B1",
+            "swap_group": 0
+        },
+        "1ea78983-45a8-4c5a-9f17-82b22436dad6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B2",
+            "swap_group": 0
+        },
+        "2084d131-3237-4831-acab-d738c650abc5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "OE",
+            "swap_group": 0
+        },
+        "3c5406c9-5a0b-4297-8f07-60090d76c898": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B3",
+            "swap_group": 0
+        },
+        "7d50e069-446c-472a-b232-09e062c08083": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A1",
+            "swap_group": 0
+        },
+        "985ab7ca-a6b9-4855-a773-214606c4b28e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCB",
+            "swap_group": 0
+        },
+        "9e734805-9a87-4639-910a-1f38a71157cd": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A4",
+            "swap_group": 0
+        },
+        "a12eeb26-74b6-4fa8-a695-dff788dfe394": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "c294fed5-4b94-40a7-aea1-e0a68420270e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCA",
+            "swap_group": 0
+        },
+        "cba6f171-6358-44b2-9b65-c4835c39cac9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A2",
+            "swap_group": 0
+        },
+        "cec22d6b-bb9d-46ac-8c26-01f7f671427d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "dad91799-715e-4d6a-ae4c-1ae66ce7618f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B4",
+            "swap_group": 0
+        },
+        "e4ee0682-361b-468e-843a-a608f6fb447f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A3",
+            "swap_group": 0
+        },
+        "f65b0c12-8b71-4077-8f08-c087ac643fca": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "eb63fe8a-61f7-4584-a321-e9483bfdb82c"
+}
